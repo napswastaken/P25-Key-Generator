@@ -36,7 +36,7 @@ Usage:
 - Choose between AES and DES encryption.
 - The script generates a random key, converts it to hex, and saves it to a file.
 
-Designed for use with Tait Key Utility
+Designed for use with Tait Key Utility to make it easier to generate keys on the fly.
 
 License:
 
